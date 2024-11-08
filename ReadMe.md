@@ -1,4 +1,14 @@
-﻿```plaintext
+
+# Refit Pokemon API
+
+### [Github Refit](https://github.com/reactiveui/refit) 
+
+<image src="https://github.com/reactiveui/refit/raw/main/refit_logo.png">
+
+#### Api Pokemon https://pokeapi.co/
+
+
+ ```plaintext
 src
 ├── Services
 │   ├── MyApiService.cs
@@ -21,5 +31,5 @@ src
     └── Program.cs
 ```
 
-
+```URL
 https://localhost:7014/pokemon?limit=2
