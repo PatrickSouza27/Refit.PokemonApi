@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refit-PokemonApi", "Refit-PokemonApi\Refit-PokemonApi.csproj", "{70A1D0F1-3566-4683-A303-492E28BB138E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefitApiExternalPost", "RefitApiExternalPost\RefitApiExternalPost.csproj", "{437C19DB-3505-4433-8492-88082669C479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.Refit", "Shared.Refit\Shared.Refit.csproj", "{8AEC0ED0-547B-44C6-9C8E-B299A4BEC8B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70A1D0F1-3566-4683-A303-492E28BB138E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A1D0F1-3566-4683-A303-492E28BB138E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A1D0F1-3566-4683-A303-492E28BB138E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A1D0F1-3566-4683-A303-492E28BB138E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437C19DB-3505-4433-8492-88082669C479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437C19DB-3505-4433-8492-88082669C479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437C19DB-3505-4433-8492-88082669C479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437C19DB-3505-4433-8492-88082669C479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEC0ED0-547B-44C6-9C8E-B299A4BEC8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEC0ED0-547B-44C6-9C8E-B299A4BEC8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEC0ED0-547B-44C6-9C8E-B299A4BEC8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEC0ED0-547B-44C6-9C8E-B299A4BEC8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

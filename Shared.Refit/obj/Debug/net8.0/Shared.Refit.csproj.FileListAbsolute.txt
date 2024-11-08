@@ -1,0 +1,11 @@
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\Refit\Shared.Refit\bin\Debug\net8.0\Shared.Refit.deps.json
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\Refit\Shared.Refit\bin\Debug\net8.0\Shared.Refit.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\Refit\Shared.Refit\bin\Debug\net8.0\Shared.Refit.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\Refit\Shared.Refit\obj\Debug\net8.0\Shared.Refit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\Refit\Shared.Refit\obj\Debug\net8.0\Shared.Refit.AssemblyInfoInputs.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\Refit\Shared.Refit\obj\Debug\net8.0\Shared.Refit.AssemblyInfo.cs
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\Refit\Shared.Refit\obj\Debug\net8.0\Shared.Refit.csproj.CoreCompileInputs.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\Refit\Shared.Refit\obj\Debug\net8.0\Shared.Refit.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\Refit\Shared.Refit\obj\Debug\net8.0\refint\Shared.Refit.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\Refit\Shared.Refit\obj\Debug\net8.0\Shared.Refit.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\Refit\Shared.Refit\obj\Debug\net8.0\ref\Shared.Refit.dll
