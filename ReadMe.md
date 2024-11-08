@@ -1,6 +1,8 @@
 
 # Refit Pokemon API
 
+||Refit|Refit.HttpClientFactory|Refit.Newtonsoft.Json|
+|-|-|-|-|
 ### [Github Refit](https://github.com/reactiveui/refit) 
 
 <image src="https://github.com/reactiveui/refit/raw/main/refit_logo.png">
